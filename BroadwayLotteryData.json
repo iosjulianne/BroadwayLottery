@@ -1,0 +1,277 @@
+{  
+   "showList":{  
+      "aladdin":{  
+         "name":"Aladdin",
+         "theater":"Weekdays 7pm-12am\nWeekends 7pm-8am",
+         "price":30,
+         "url":"https://lottery.broadwaydirect.com/show/aladdin/",
+         "playbillName":"aladdin.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0}],
+            "2":[{"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":8,"closeMinutes":30},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":8,"closeMinutes":30},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":8,"closeMinutes":30},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":8,"closeMinutes":30},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":8,"closeMinutes":30},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "americanutopia":{
+         "name":"American Utopia",
+         "theater":"Music Box\n239 W. 45th St\nbetween 7th and 8th",
+         "price":40,
+         "url":"http://www.dearevanhansenlottery.com/",
+         "playbillName":"dearevanhansen.jpg",
+         "lotteryTimes":{
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "bookofmormon":{
+         "name":"Book of Mormon",
+         "theater":"O'Neill\n230 W. 49th St\nbetween Broadway and 8th",
+         "price":55,
+         "url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D497B91C3FD",
+         "playbillName":"bookofmormon.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "comefromaway":{
+         "name":"Come From Away",
+         "theater":"Longacre\n220 W. 48th St\nbetween Broadway and 8th",
+         "price":32,
+         "url":"https://comefromawaylottery.com",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "company":{  
+         "name":"Company",
+         "theater":"Music Box\n239 W. 45th St\nbetween 7th and 8th",
+         "price":40,
+         "url":"http://www.dearevanhansenlottery.com/",
+         "playbillName":"dearevanhansen.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "dearevanhansen":{
+         "name":"Dear Evan Hansen",
+         "theater":"Music Box\n239 W. 45th St\nbetween 7th and 8th",
+         "price":40,
+         "url":"http://www.dearevanhansenlottery.com/",
+         "playbillName":"dearevanhansen.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":0,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":0,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}]
+         }
+      },
+      "hadestown":{  
+         "name":"Hadestown",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://baa.turnkeysurveyor.com/se/5145A8F937B3D592",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "hamilton":{  
+         "name":"Hamilton",
+         "theater":"Richard Rodgers\n226 W. 46th St\nbetween Broadway and 8th",
+         "price":10,
+         "url":"http://www.luckyseat.com/hamilton-ny/",
+         "playbillName":"hamilton.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":0,"closeMinutes":0}],
+            "2":[{"openHour":9,"openMinutes":0,"closeHour":16,"closeMinutes":0}],
+            "3":[{"openHour":9,"openMinutes":0,"closeHour":16,"closeMinutes":0}],
+            "4":[{"openHour":9,"openMinutes":0,"closeHour":16,"closeMinutes":0}],
+            "5":[{"openHour":9,"openMinutes":0,"closeHour":11,"closeMinutes":0},
+                  {"openHour":12,"openMinutes":0,"closeHour":16,"closeMinutes":0}],
+            "6":[{"openHour":9,"openMinutes":0,"closeHour":16,"closeMinutes":0}],
+            "7":[{"openHour":9,"openMinutes":0,"closeHour":11,"closeMinutes":0}, 
+                  {"openHour":12,"openMinutes":0,"closeHour":16,"closeMinutes":0}]
+         }
+      },
+      "harrypotter":{
+         "name":"Harry Potter",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://www.todaytix.com/nyc/shows/8728-harry-potter-and-the-cursed-child",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "lionking":{
+         "name":"The Lion King",
+         "theater":"Minskoff\n200 W. 45th St\nbetween 7th and 8th",
+         "price":"30",
+         "url":"https://lottery.broadwaydirect.com/show/the-lion-king/",
+         "playbillName":"lionking.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0}],
+            "2":[{"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0},
+                  {"openHour":19,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":9,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+       "mj":{  
+         "name":"MJ",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://lottery.broadwaydirect.com/show/mj-ny/",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+       "moulinrouge":{
+         "name":"Moulin Rouge!",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://www.luckyseat.com/shows/moulinrouge!themusical-newyork",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "phantom":{  
+         "name":"The Phantom of the Opera",
+         "theater":"Majestic\n247 W. 44th St\nbetween 7th and 8th",
+         "price":28,
+         "url":"http://www.phantombroadwaylottery.com/",
+         "playbillName":"phantom.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":0,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":15,"closeMinutes":0}]
+         }
+      },
+       "six":{  
+         "name":"Six",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://lottery.broadwaydirect.com/show/six-ny/",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+       "tina":{  
+         "name":"Tina",
+         "theater":"St. James\n246 W. 46th St\nbetween 7th and 8th",
+         "price":30,
+         "url":"https://lottery.broadwaydirect.com/show/tina-ny/",
+         "playbillName":"charlie.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "2":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      },
+      "wicked":{  
+         "name":"Wicked",
+         "theater":"Gershwin\n222 W. 51st St\nbetween Broadway and 8th",
+         "price":35,
+         "url":"https://lottery.broadwaydirect.com/show/wicked/",
+         "playbillName":"wicked.jpg",
+         "lotteryTimes":{  
+            "1":[{"openHour":0,"openMinutes":0,"closeHour":0,"closeMinutes":0}],
+            "2":[{"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "3":[{"openHour":0,"openMinutes":0,"closeHour":14,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "4":[{"openHour":0,"openMinutes":0,"closeHour":14,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "5":[{"openHour":0,"openMinutes":0,"closeHour":14,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "6":[{"openHour":0,"openMinutes":0,"closeHour":14,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}],
+            "7":[{"openHour":0,"openMinutes":0,"closeHour":14,"closeMinutes":0},
+                  {"openHour":20,"openMinutes":0,"closeHour":24,"closeMinutes":0}]
+         }
+      }
+   }
+}
